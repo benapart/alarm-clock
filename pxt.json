@@ -1,5 +1,5 @@
 {
-    "name": "superbit",
+    "name": "alarm-clock",
     "description": "",
     "dependencies": {
         "core": "*",
